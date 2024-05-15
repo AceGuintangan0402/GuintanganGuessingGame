@@ -14,7 +14,7 @@
 1. You can either clone the repository or download the server. py file.
 2. Check if you have Python installed on your system.
 3. Start the server script with the command python server. py.
-4. Join the server by a TCP client (e.g. a web browser). g. , Telnet) to the specified host and port.
+
 
 ## Usage
 
@@ -23,4 +23,4 @@
 - Try to guess a number in the given range.
 - The server will give a response to the guess which will either say that it is too low or too high.
 - After the right number is guessed, the server will show the number of attempts and update the leaderboard.
-- Players can either opt to play again or leave the game.
+
